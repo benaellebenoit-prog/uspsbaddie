@@ -255,7 +255,7 @@ DHL
   * Recipients can choose from up to six alternate delivery options: change delivery date, deliver to service point/locker, signature release, leave with neighbor, deliver to alternate address, or hold up to \~30 days (mix varies by country).[DHL Express+2DHL+2](https://delivery.dhl.com/?utm_source=chatgpt.com)  
   * Multi-channel notifications: email, SMS, push via app, WhatsApp.[DHL Express+2DHL Express+2](https://delivery.dhl.com/?utm_source=chatgpt.com)
 
-Big picture for e-commerce:  UPS/FedEx emphasize address-level control and rescheduling; Amazon focuses on live visibility and convenience inside its app; USPS is more passive; DHL’s ODD is particularly strong for cross-border B2C where delivery flexibility plus proactive messaging materially reduce failed deliveries and WISMO contacts.  
+Big picture for e-commerce: UPS/FedEx emphasize address-level control and rescheduling; Amazon focuses on live visibility and convenience inside its app; USPS is more passive; DHL’s ODD is particularly strong for cross-border B2C where delivery flexibility plus proactive messaging materially reduce failed deliveries and WISMO contacts.  
 C. Business dashboards & bulk tracking  
 UPS
 
